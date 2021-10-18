@@ -30,3 +30,7 @@ Main commit 3rd.
 
 Update Readme 1st commit.
 Update Readme 2nd commit.
+
+Experiment amend commit option.
+
+2nd Experiement amend commit option.
