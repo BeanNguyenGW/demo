@@ -24,4 +24,7 @@ I move the commit revision of the branch one step forward.
 
 Main commit 1st.
 
+Main commit 2nd.
+
+Main commit 3rd.
 
