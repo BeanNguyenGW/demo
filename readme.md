@@ -12,3 +12,5 @@ Today is sunday 10/18/2021.
 I am learning git merge, rebase, amend and cherry-picking.
 
 Add more commit to the branch.
+
+Add second commit to the branch
