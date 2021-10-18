@@ -14,3 +14,5 @@ I am learning git merge, rebase, amend and cherry-picking.
 Add more commit to the branch.
 
 Add second commit to the branch
+
+Add third commit to the branch.
