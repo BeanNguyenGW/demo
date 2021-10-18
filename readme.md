@@ -8,3 +8,5 @@ Hello from updatereadme
 I have another commit from Updatereadme branch
 I want to say hello again.
 
+Today is sunday 10/18/2021.
+I am learning git merge, rebase, amend and cherry-picking.
