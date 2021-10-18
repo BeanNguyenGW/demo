@@ -10,3 +10,5 @@ I want to say hello again.
 This is afternoon.
 I commit at noon secondly.
 
+Today is sunday 10/18/2021.
+I am learning git merge, rebase, amend and cherry-picking.
